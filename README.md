@@ -1,1 +1,1 @@
-### A sample of manually deployment
+### A sample of automatic deployment
